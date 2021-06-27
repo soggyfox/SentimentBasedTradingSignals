@@ -1,12 +1,7 @@
-import requests
-import json
-import config
 import preprocessor as p
-from langdetect import detect
 from ernie import SentenceClassifier
 import numpy as np
 import csv
-import re
 
 # sentimentList = []
 classifier = SentenceClassifier(model_path='./output')
