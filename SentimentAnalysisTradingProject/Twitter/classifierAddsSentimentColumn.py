@@ -17,12 +17,12 @@ print("tweet" + tweet)
 # sentimentList.append(polarity)
 
 
-with open('new_dataSet.csv', encoding="utf8") as csvfile:
+with open('newReformatedDataSet.csv', encoding="utf8") as csvfile:
     reader = csv.reader(csvfile)
 
     # Skip value
     next(reader)
-    with open('new_dataSet_withSentiment.csv', 'w') as newfile:
+    with open('dataSetWithSentiment.csv', 'w') as newfile:
         csv_writer = csv.writer(newfile)
 
         for row in reader:

@@ -27,7 +27,7 @@ with open('Book1.csv', encoding="utf8") as csvfile:
 
     # Skip value
     next(reader)
-    with open('new_dataSet.csv', 'w') as newfile:
+    with open('newReformatedDataSet.csv', 'w') as newfile:
         csv_writer = csv.writer(newfile)
 
         for row in reader:

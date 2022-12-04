@@ -7,7 +7,7 @@ import requests
 # btc = requests.get('https://api.coindesk.com/v1/bpi/currentprice.json')
 btc = requests.get('https://api.coindesk.com/v1/bpi/historical/close.json?start=2019-09-01&end=2021-06-01')
 
-with open('new_dataSet_withSentiment_withNewDateFormat_withBTCPrice.csv', encoding="utf8") as csvfile:
+with open('dataSetWithSentimentWithNewDateFormatWithBTCPrice.csv', encoding="utf8") as csvfile:
     reader = csv.reader(csvfile)
     # Skip value
     next(reader)

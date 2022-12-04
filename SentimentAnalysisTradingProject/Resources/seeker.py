@@ -6,7 +6,7 @@ with open('Bitcoin_tweets.csv', encoding="utf8") as csvfile:
 
     # Skip value
     next(reader)
-    with open('new_dataSet.csv', 'w') as newfile:
+    with open('cleanedDataSet.csv', 'w') as newfile:
         csv_writer = csv.writer(newfile)
 
         for row in reader:

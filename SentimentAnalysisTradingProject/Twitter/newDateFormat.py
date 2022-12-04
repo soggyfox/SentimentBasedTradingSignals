@@ -1,11 +1,11 @@
 import csv
 
-with open('new_dataSet_withSentiment.csv', encoding="utf8") as csvfile:
+with open('dataSetWithSentiment.csv', encoding="utf8") as csvfile:
     reader = csv.reader(csvfile)
 
     # Skip value
     next(reader)
-    with open('new_dataSet_withSentiment_withNewDateFormat.csv', 'w') as newfile:
+    with open('dataSetWithSentimentWithNewDateFormat.csv', 'w') as newfile:
         csv_writer = csv.writer(newfile)
 
         for row in reader:
