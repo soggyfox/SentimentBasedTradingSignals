@@ -1,4 +1,5 @@
-# SentimentTradingSignals
+# Bachelor Thesis Project
+## Sentiment Analaysis Trading Signals
 Trading bots have become commonplace.
 They use a wide array of different algorithms and 
 heuristics with the goal of predicting future stock prices via extrapolation. Current implementations range from using machine learning to availing of basic trading strategies such as the relative strength index. Here we use sentiment analysis. A lot of research has been carried out on analysing market sentiment which provide the positive and negative signals but here we will go more in depth with regard to the strength in trading signals which none of the literature provides and is one of the gap observed in the literature review.
