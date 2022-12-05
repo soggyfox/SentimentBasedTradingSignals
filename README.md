@@ -30,7 +30,7 @@ It was market sentiment in combination with tweet volume that correlated to the 
 
 
 ## Future Works 
-To test your new founded trading strategies in real time, you can use twitters API which allows you to get tweets in real time. From here you can trade based on your indicators. Platforms such as binance allow easy connection to a tarding bot by use of the biancne API. 
+To test your new founded trading strategies in real time, you can use twitters API which allows you to get tweets in real time. From here you can trade based on your indicators. Platforms such as binance allow easy connection to a TRADING bot. This can be achieved by availing of the biancne API. 
 
 use the command pip install python-binance. See docs here
 https://pypi.org/project/python-binance/
