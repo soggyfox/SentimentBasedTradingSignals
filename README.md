@@ -14,21 +14,7 @@ in the literature review.
 The whole methodology and literature review can be seen on the "thesis Submission pdf in the route folder of this git repo"
 
 ## Set up Natural language processor 
-Go to https://github.com/labteral/ernie and then go to
-"open in collab" --> https://colab.research.google.com/drive/10lmqZyAHFP_-x4LxIQxZCavYpPqcR28c
-
 Use roberta and ernie to train your model on the training dataset. 
-Find the data set I used here https://data.world/mercal/btc-tweets-sentiment.
-
-Now download the output directory. This contains your trained natural language processor.
-Use your natural language processor to create sentiment scores for your testing data set.
-I used https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets\\?select=Bitcoin\_tweets.csv.
-
-One can contract their data set using an excell modifier to get one out of every 50 rows. Then append market sentiment scores to each one of the tweets.
-Change the date format which will allow you to obtain the BTC price on said given day. 
-
-Now use the jupytr files to plot graphs and analyse your findings.
-Different strategies can be created from then on. 
 
 ## Conclusions
 The bot was able to outperform a "buy and hold bitcoin strategy". Pseudo Trades were made on the Binance platform. There you can make a virtual account and trade with fake money.
