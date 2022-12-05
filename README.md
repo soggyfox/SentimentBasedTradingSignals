@@ -11,7 +11,7 @@ in trading signals which none of the literature provides and is one of the gap o
 in the literature review.
 
 ## Project Methodology
-The whole methodology and literature review can be seen on the "thesis Submission pdf in the route folder of this git repo"
+The whole methodology and literature review can be seen on the "thesis Submission pdf" in the route folder of this git repo.
 
 ## Set up Natural language processor 
 Use roberta and ernie to train your model on the training dataset. 
