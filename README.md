@@ -19,9 +19,9 @@ Use roberta and ernie to train your model on the training dataset.
 <img width="754" alt="image" src="https://user-images.githubusercontent.com/44605305/205715668-e122d671-2e71-4953-8e14-f376ab5c6d99.png">
 
 ## Collecting and refining the data
-###Field research
+### Field research
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/44605305/205716864-63fb98ec-f9dc-40d6-bfda-a326731e0edd.png">
-###Cleaning tweets and processing whether a tweet has positive or negative market sentiment. Then using the right "trigger condition"(buy-sell algoithm used) to complete a trade of bitcoin on this Binance platform.
+### Cleaning tweets and processing whether a tweet has positive or negative market sentiment. Then using the right "trigger condition"(buy-sell algoithm used) to complete a trade of bitcoin on this Binance platform.
 
 <img width="442" alt="image" src="https://user-images.githubusercontent.com/44605305/205717083-14087adb-7034-4d0c-81a0-2eee51d4200f.png">
 <img width="403" alt="image" src="https://user-images.githubusercontent.com/44605305/205717099-ec3cddcd-def3-4248-80d5-00e592a8bc1a.png">
